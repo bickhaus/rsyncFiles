@@ -1,0 +1,54 @@
+
+#Directories
+
+deja-dup
+Desktop
+Downloads
+Music
+Pictures
+Public
+Videos
+
+#Mounted filesystem
+.local/share/gvfs-metadata
+.Private
+
+#Session-specific directories and files
+.dbus
+.cache
+.Trash
+.local/share/Trash
+.x*
+..x*
+.Xauthority
+.ICEauthority
+.pulse-cookie
+
+#Recent Files
+./local/share/recently-used.xbel
+
+#Firefox
+.mozilla/*
+.mozilla/firefox/*
+.mozilla/firefox/*.default/*
+
+#Steam
+Steam
+.steam
+.steampid
+.steampath
+
+#Google Chrome
+.config/google-chrome
+
+#Vivaldi
+.config/vivaldi
+
+#indexer
+.local/share/zeitgeist
+
+
+
+
+
+

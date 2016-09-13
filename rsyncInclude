@@ -1,0 +1,4 @@
+.mozilla/
+.mozilla/firefox/
+.mozilla/firefox/*.default/
+.mozilla/firefox/*.default/bookmarkbackups/
