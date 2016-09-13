@@ -1,13 +1,13 @@
 
 #Directories
 
-deja-dup
-Desktop
-Downloads
-Music
-Pictures
-Public
-Videos
+/deja-dup
+/Desktop
+/Downloads
+/Music
+/Pictures
+/Public
+/Videos
 
 #Mounted filesystem
 .local/share/gvfs-metadata
